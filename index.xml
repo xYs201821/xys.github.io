@@ -2,20 +2,19 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>xYs Homepage</title>
-    <link>http://home.ustc.edu.cn/~xys201821/</link>
+    <link>http://xys.github.io/</link>
     <description>Recent content on xYs Homepage</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 23 Jun 2022 00:03:22 +0800</lastBuildDate><atom:link href="http://home.ustc.edu.cn/~xys201821/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 23 Jun 2022 00:03:22 +0800</lastBuildDate><atom:link href="http://xys.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>诗-辛波斯卡-一见钟情</title>
-      <link>http://home.ustc.edu.cn/~xys201821/posts/poems1/</link>
+      <link>http://xys.github.io/posts/poems1/</link>
       <pubDate>Thu, 23 Jun 2022 00:03:22 +0800</pubDate>
       
-      <guid>http://home.ustc.edu.cn/~xys201821/posts/poems1/</guid>
+      <guid>http://xys.github.io/posts/poems1/</guid>
       <description>🐱写在前面: 打算随便整点活，丰富一下博客里的内容，不然有些寒碜——先做些简单粗暴地推荐，比如诗歌、音乐剧、电影、小说和游戏；之后如果有时间，再认真地写点日志。第一篇选择了辛波斯卡的《一见钟情》，没有什么特别的原因，只是想献给第一位读者🐶而已
-一见钟情他们两人都深信
-一种突然的激情使他们结合在一起。
+一见钟情一种突然的激情使他们结合在一起。
 这样的信念是美丽的，
 但犹豫不定更为美丽。
 如果从未相遇，他们确信，
@@ -62,28 +61,28 @@
     
     <item>
       <title>schoolhatry</title>
-      <link>http://home.ustc.edu.cn/~xys201821/posts/schoolhatry/</link>
+      <link>http://xys.github.io/posts/schoolhatry/</link>
       <pubDate>Wed, 22 Jun 2022 22:57:20 +0800</pubDate>
       
-      <guid>http://home.ustc.edu.cn/~xys201821/posts/schoolhatry/</guid>
+      <guid>http://xys.github.io/posts/schoolhatry/</guid>
       <description>Little Ys : I dont like school,because it&amp;rsquo;s hot and dry plus nobody likes me.</description>
     </item>
     
     <item>
       <title>不想上学</title>
-      <link>http://home.ustc.edu.cn/~xys201821/posts/schoolhatry-zh/</link>
+      <link>http://xys.github.io/posts/schoolhatry-zh/</link>
       <pubDate>Wed, 22 Jun 2022 22:42:43 +0800</pubDate>
       
-      <guid>http://home.ustc.edu.cn/~xys201821/posts/schoolhatry-zh/</guid>
+      <guid>http://xys.github.io/posts/schoolhatry-zh/</guid>
       <description>Xiao Ys : 我不想上学了，因为学校里又热又闷，而且没有人喜欢我。</description>
     </item>
     
     <item>
       <title></title>
-      <link>http://home.ustc.edu.cn/~xys201821/education/</link>
+      <link>http://xys.github.io/education/</link>
       <pubDate>Mon, 20 Jun 2022 15:38:54 +0800</pubDate>
       
-      <guid>http://home.ustc.edu.cn/~xys201821/education/</guid>
+      <guid>http://xys.github.io/education/</guid>
       <description>education background2020.9-pre: undergraduate, major in statistics, School of Management, University of Science and Technology
 2017.9-2020.7: Senior High School, Dongguan Middle School
 Selected CoursesProbability and Statistics Analysis and Differential Equations Algebra CS Probability Theory(98) Mathematical Analysis $B_1-B_3$ (95,95,96) Linear Algebra $B_1 - B_2$ (100,94) C programing(95) Applied Stochastic Processes(96) Real Analysis (99) Data Structure and Database(99) Mathematical Statistics() Complex Analysis () Applied Statistics Software(95) </description>
@@ -91,10 +90,10 @@ Selected CoursesProbability and Statistics Analysis and Differential Equations 
     
     <item>
       <title></title>
-      <link>http://home.ustc.edu.cn/~xys201821/cv/</link>
+      <link>http://xys.github.io/cv/</link>
       <pubDate>Mon, 20 Jun 2022 14:00:48 +0800</pubDate>
       
-      <guid>http://home.ustc.edu.cn/~xys201821/cv/</guid>
+      <guid>http://xys.github.io/cv/</guid>
       <description>Yan Sueducation background2020.9-pre: undergraduate, major in statistics, School of Management, University of Science and Technology
 2017.9-2020.7: Senior High School, Dongguan Middle School
 Honor2021.12: National Scholarship 2021.10: First Prize in Chinese Mathematical Competitions for University Students Overall GradesOverall GPA(up to 22spring): 4.06/4.30 Ranked 1/79 (Among all students majoring in Statistics at USTC) Weighted Scores: 93.24/100.00 Detailed information can be seen in the education section. Research InterestExploring~</description>
@@ -102,10 +101,10 @@ Honor2021.12: National Scholarship 2021.10: First Prize in Chinese Mathematical
     
     <item>
       <title>This is xYs Homepage</title>
-      <link>http://home.ustc.edu.cn/~xys201821/home/</link>
+      <link>http://xys.github.io/home/</link>
       <pubDate>Mon, 20 Jun 2022 11:37:23 +0800</pubDate>
       
-      <guid>http://home.ustc.edu.cn/~xys201821/home/</guid>
+      <guid>http://xys.github.io/home/</guid>
       <description>Nothing to see here&amp;hellip;Maybe later</description>
     </item>
     
