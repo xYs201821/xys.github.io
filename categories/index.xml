@@ -2,9 +2,9 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on xYs Homepage</title>
-    <link>http://xys.github.io/tree/main/categories/</link>
+    <link>https://github.com/xYs201821/xys.github.io/tree/main/categories/</link>
     <description>Recent content in Categories on xYs Homepage</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="http://xys.github.io/tree/main/categories/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language><atom:link href="https://github.com/xYs201821/xys.github.io/tree/main/categories/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
