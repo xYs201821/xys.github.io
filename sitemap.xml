@@ -2,49 +2,72 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://xys.github.io/categories/</loc>
+    <loc>http://xys.github.io/tree/main/tags/beidao/</loc>
+    <lastmod>2022-06-26T00:05:02+08:00</lastmod>
+  </url><url>
+    <loc>http://xys.github.io/tree/main/tags/poem/</loc>
+    <lastmod>2022-06-26T00:05:02+08:00</lastmod>
+  </url><url>
+    <loc>http://xys.github.io/tree/main/posts/</loc>
+    <lastmod>2022-06-26T00:05:02+08:00</lastmod>
+  </url><url>
+    <loc>http://xys.github.io/tree/main/tags/</loc>
+    <lastmod>2022-06-26T00:05:02+08:00</lastmod>
+  </url><url>
+    <loc>http://xys.github.io/tree/main/</loc>
+    <lastmod>2022-06-26T00:05:02+08:00</lastmod>
+  </url><url>
+    <loc>http://xys.github.io/tree/main/posts/poem_beidao_1/</loc>
+    <lastmod>2022-06-26T00:05:02+08:00</lastmod>
+  </url><url>
+    <loc>http://xys.github.io/tree/main/tags/recitation/</loc>
+    <lastmod>2022-06-25T23:51:39+08:00</lastmod>
+  </url><url>
+    <loc>http://xys.github.io/tree/main/tags/words/</loc>
+    <lastmod>2022-06-25T23:51:39+08:00</lastmod>
+  </url><url>
+    <loc>http://xys.github.io/tree/main/posts/words_day1/</loc>
+    <lastmod>2022-06-25T23:51:39+08:00</lastmod>
+  </url><url>
+    <loc>http://xys.github.io/tree/main/tags/andrew-lloyd-webber/</loc>
+    <lastmod>2022-06-23T18:28:55+08:00</lastmod>
+  </url><url>
+    <loc>http://xys.github.io/tree/main/tags/jcs/</loc>
+    <lastmod>2022-06-23T18:28:55+08:00</lastmod>
+  </url><url>
+    <loc>http://xys.github.io/tree/main/tags/musical/</loc>
+    <lastmod>2022-06-23T18:28:55+08:00</lastmod>
+  </url><url>
+    <loc>http://xys.github.io/tree/main/posts/musical_jcs/</loc>
+    <lastmod>2022-06-23T18:28:55+08:00</lastmod>
+  </url><url>
+    <loc>http://xys.github.io/tree/main/tags/wislawa-szymborska/</loc>
     <lastmod>2022-06-23T00:03:22+08:00</lastmod>
   </url><url>
-    <loc>http://xys.github.io/posts/</loc>
+    <loc>http://xys.github.io/tree/main/posts/poems1/</loc>
     <lastmod>2022-06-23T00:03:22+08:00</lastmod>
   </url><url>
-    <loc>http://xys.github.io/tags/</loc>
-    <lastmod>2022-06-23T00:03:22+08:00</lastmod>
-  </url><url>
-    <loc>http://xys.github.io/</loc>
-    <lastmod>2022-06-23T00:03:22+08:00</lastmod>
-  </url><url>
-    <loc>http://xys.github.io/tags/%E8%AF%97/</loc>
-    <lastmod>2022-06-23T00:03:22+08:00</lastmod>
-  </url><url>
-    <loc>http://xys.github.io/categories/%E8%AF%97/</loc>
-    <lastmod>2022-06-23T00:03:22+08:00</lastmod>
-  </url><url>
-    <loc>http://xys.github.io/posts/poems1/</loc>
-    <lastmod>2022-06-23T00:03:22+08:00</lastmod>
-  </url><url>
-    <loc>http://xys.github.io/tags/%E8%BE%9B%E6%B3%A2%E6%96%AF%E5%8D%A1/</loc>
-    <lastmod>2022-06-23T00:03:22+08:00</lastmod>
-  </url><url>
-    <loc>http://xys.github.io/tags/boring/</loc>
+    <loc>http://xys.github.io/tree/main/tags/boring/</loc>
     <lastmod>2022-06-22T22:57:20+08:00</lastmod>
   </url><url>
-    <loc>http://xys.github.io/posts/schoolhatry/</loc>
+    <loc>http://xys.github.io/tree/main/posts/schoolhatry/</loc>
     <lastmod>2022-06-22T22:57:20+08:00</lastmod>
   </url><url>
-    <loc>http://xys.github.io/tags/test/</loc>
+    <loc>http://xys.github.io/tree/main/tags/test/</loc>
     <lastmod>2022-06-22T22:57:20+08:00</lastmod>
   </url><url>
-    <loc>http://xys.github.io/posts/schoolhatry-zh/</loc>
+    <loc>http://xys.github.io/tree/main/posts/schoolhatry-zh/</loc>
     <lastmod>2022-06-22T22:42:43+08:00</lastmod>
   </url><url>
-    <loc>http://xys.github.io/education/</loc>
+    <loc>http://xys.github.io/tree/main/education/</loc>
     <lastmod>2022-06-20T15:38:54+08:00</lastmod>
   </url><url>
-    <loc>http://xys.github.io/cv/</loc>
+    <loc>http://xys.github.io/tree/main/cv/</loc>
     <lastmod>2022-06-20T14:00:48+08:00</lastmod>
   </url><url>
-    <loc>http://xys.github.io/home/</loc>
+    <loc>http://xys.github.io/tree/main/home/</loc>
     <lastmod>2022-06-20T11:37:23+08:00</lastmod>
+  </url><url>
+    <loc>http://xys.github.io/tree/main/categories/</loc>
   </url>
 </urlset>

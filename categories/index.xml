@@ -2,19 +2,9 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on xYs Homepage</title>
-    <link>http://xys.github.io/categories/</link>
+    <link>http://xys.github.io/tree/main/categories/</link>
     <description>Recent content in Categories on xYs Homepage</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <lastBuildDate>Thu, 23 Jun 2022 00:03:22 +0800</lastBuildDate><atom:link href="http://xys.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>诗</title>
-      <link>http://xys.github.io/categories/%E8%AF%97/</link>
-      <pubDate>Thu, 23 Jun 2022 00:03:22 +0800</pubDate>
-      
-      <guid>http://xys.github.io/categories/%E8%AF%97/</guid>
-      <description></description>
-    </item>
-    
+    <language>en-us</language><atom:link href="http://xys.github.io/tree/main/categories/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
