@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Promise on xYs Homepage</title>
+    <link>https://xys201821.github.io/xys.github.io/tags/promise/</link>
+    <description>Recent content in Promise on xYs Homepage</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 03 Jul 2022 21:25:55 +0800</lastBuildDate><atom:link href="https://xys201821.github.io/xys.github.io/tags/promise/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>I Promise</title>
+      <link>https://xys201821.github.io/xys.github.io/posts/ipromise/</link>
+      <pubDate>Sun, 03 Jul 2022 21:25:55 +0800</pubDate>
+      
+      <guid>https://xys201821.github.io/xys.github.io/posts/ipromise/</guid>
+      <description>🐱写在前面: 想到之前做的Rshiny网页还可以再完善一下，争取回家以后抽空补上。目前的想法是比较一些参数检验和非参检验的稳健性，I promise 之后再尝试给网页设置一个bgm(带播放键)，I promise 这一篇的bgm是radiohead的 i promise
+I wont run away no more, I promise
+Even when I get bored, I promise
+Even when you lock me out, I promise
+I say my prayers every night, I promise
+I dont wish that I&amp;rsquo;m strict, I promise
+The tantrums and the chilling chats, I promise
+Even when the ship is wrecked, I promise
+Tie me to the rotten deck, I promise</description>
+    </item>
+    
+  </channel>
+</rss>
