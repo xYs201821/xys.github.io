@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Game on xYs Homepage</title>
-    <link>https://xys201821.github.io/xys.github.io/tags/game/</link>
-    <description>Recent content in Game on xYs Homepage</description>
+    <title>PFKM on xYs Homepage</title>
+    <link>https://xys201821.github.io/xys.github.io/tags/pfkm/</link>
+    <description>Recent content in PFKM on xYs Homepage</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 17 Jul 2022 21:45:25 +0800</lastBuildDate><atom:link href="https://xys201821.github.io/xys.github.io/tags/game/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 17 Jul 2022 21:45:25 +0800</lastBuildDate><atom:link href="https://xys201821.github.io/xys.github.io/tags/pfkm/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Game-PathFinder:KingMaker</title>
       <link>https://xys201821.github.io/xys.github.io/posts/kingsmaker/</link>
@@ -14,17 +14,6 @@
       
       <guid>https://xys201821.github.io/xys.github.io/posts/kingsmaker/</guid>
       <description>🐱写在前面: 最近拥王者的游戏时长已经达到了70h，简单写点推荐。PF:KM属于比较复古的CRPG类型，DnD规则、即时制，上手难度较大。对于新手来说(比如我)，即便在默认的普通难度下，也会在初期开局就遇到不少很艰难的战斗。因此建议新手从更简单的难度入手，角色Build可以上网找找攻略或者采用官方默认的Build，在熟悉游戏规则以及角色成型之后再尝试自己搭建Build，进行更高难度的策略性挑战，这样游戏体验会好很多()。王国系统蛮鸡肋的，类似于暗耻三国志那种点点点(然而我就是擅长干这个。可以开个简单难度或自动管理，省得心累。游戏性可能一般，但角色扮演的部分则必须好好品尝。游戏中同伴的个人特色鲜明，有着非常多的有趣互动。每次冒险的时候，都可以带上不同的同伴组合，解锁更多的团结友善。琳翠翠真可爱!</description>
-    </item>
-    
-    <item>
-      <title>游戏-雨中冒险2-三条铁律</title>
-      <link>https://xys201821.github.io/xys.github.io/posts/games_riskofrain2/</link>
-      <pubDate>Sun, 26 Jun 2022 22:59:43 +0800</pubDate>
-      
-      <guid>https://xys201821.github.io/xys.github.io/posts/games_riskofrain2/</guid>
-      <description>1.不要触发山之挑战
-2.不要贪地上的道具
-3.不要放任小怪成群</description>
     </item>
     
   </channel>
